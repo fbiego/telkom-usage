@@ -2,11 +2,11 @@
  View your telkom account details on an ESP32 + OLED display
  
 ## Account ID
-Visit `http://myaccount.telkom.co.ke` on Chrome browser
-After logging in, Open developer tools (Ctrl+Shift+I)
-On the `Sources` tab click on `index.jsp`
-Scroll until you find you login details
-Copy value of `$.g_LoginUser.AcctId`
+- Visit `http://myaccount.telkom.co.ke` on Chrome browser
+- After logging in, Open developer tools (Ctrl+Shift+I)
+- On the `Sources` tab click on `index.jsp`
+- Scroll until you find you login details
+- Copy value of `$.g_LoginUser.AcctId`
 
 ![image](image.jpg?raw=true "image")
 
